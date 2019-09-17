@@ -43,7 +43,7 @@ This is the Programming Interview Study Plan by Siraj Raval on Youtube. It's [th
 
 ## Step 7 - Practice Mock Interviews
 
-- Practice using [interviewing.io](http://interviewing.io)
+- Practice using [interviewing.io](http://interviewing.io) or [pramp](https://www.pramp.com/) 
 
 ## Step 8 - Start applying for jobs
 
