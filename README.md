@@ -1,5 +1,5 @@
 # Programming_Interview_Study_Plan
-This is the Programming Interview Study Plan by Siraj Raval on Youtube 
+This is the Programming Interview Study Plan by Siraj Raval on Youtube. It's [this](https://youtu.be/sMkMr2455mk) video.
 
 ## Step 1 - Create a list of roles/companies that excite you
 
