@@ -15,7 +15,7 @@ This is the Programming Interview Study Plan by Siraj Raval on Youtube. It's [th
 
 - Take this [intro](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) course by Udacity
 
-## Step 4 - Design Your Porfolio
+## Step 4 - Design Your Portfolio
 
 - Watch [this](https://www.youtube.com/watch?v=Loav1kbA640) intro video to GitHub
 - Create & upload 3 python web apps to your GitHub portfolio (document the installation steps well in the README)
@@ -29,12 +29,12 @@ This is the Programming Interview Study Plan by Siraj Raval on Youtube. It's [th
 1. Brute force solution
 2. Conceptualize a simpler version fo the problem
 3. Use visualization
-4. More effciient solution
+4. More efficient solution
 5. Test solution
 6. Explain solution in English 
 7. Write bulletpoints of solution
 8. Write Pseudocode
-9. Write Function Defintions
+9. Write Function Definitions
 10. Write function implementations
 
 ## Step 6 - Practice System Design Questions
