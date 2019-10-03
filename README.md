@@ -23,7 +23,11 @@ This is the Programming Interview Study Plan by Siraj Raval on Youtube. It's [th
 - Leverage your [Social Media](https://www.youtube.com/watch?v=PulyGf6trOk). 
 
 ## Step 5 - Practice Data Structures & Algorithms
-- Solve 100 Easy, 50 Medium, and 2 Hard [Leetcode](http://leetcode.com) problems. Give yourself 45 minutes max per problem.
+
+###### Resources
+- Solve 100 Easy, 50 Medium, and 2 Hard [Leetcode](http://leetcode.com) problems.
+- The HackerRank Interview Preparation Kit (https://www.hackerrank.com/interview/interview-preparation-kit)
+  Give yourself 45 minutes max per problem.
 
 ###### How to Solve problems
 1. Brute force solution
