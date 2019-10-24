@@ -21,9 +21,11 @@ This is the Programming Interview Study Plan by Siraj Raval on Youtube. It's [th
 - Create & upload 3 python web apps to your GitHub portfolio (document the installation steps well in the README)
 - Design your [resume](https://www.youtube.com/watch?v=nMK94JlKRb4). 
 - Leverage your [Social Media](https://www.youtube.com/watch?v=PulyGf6trOk). 
+- Try and keep your Github and LinkedIn accounts linked and in-sync with each other.
 
 ## Step 5 - Practice Data Structures & Algorithms
 - Solve 100 Easy, 50 Medium, and 2 Hard [Leetcode](http://leetcode.com) problems. Give yourself 45 minutes max per problem.
+- Try Hackerrank/Hackerearth as well. Hackerearth has many company's challenge and job postings as well.
 
 ###### How to Solve problems
 1. Brute force solution
