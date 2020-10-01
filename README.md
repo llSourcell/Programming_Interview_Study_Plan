@@ -49,9 +49,14 @@ This is the Programming Interview Study Plan by Siraj Raval on Youtube. It's [th
 
 - Cold apply
 - Grab linkedin emails using [Getprospect](http://getprospect.io)
+- Google job search
+- indeed
 
 ## Step 9 - Start Interviewing
 - Phone Screen, Technical Screen, Onsite interviews, Offer/rejection
 - Don't get demoralized by rejections, see [this](http://rejected.us) 
 
-# Step 10 - Select the best offer
+## Step 10 - Reviews
+- Check reviews of company
+
+# Step 11 - Select the best offer
